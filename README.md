@@ -19,6 +19,8 @@ This project is a **text-based spam classifier** that uses classic NLP technique
 
 The dataset used should be a `.csv` file with two columns:
 
+
+* 'dataset link': https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download
 * `text` — raw email text
 * `label` — binary label (1 = spam, 0 = not spam)
 
